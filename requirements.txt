@@ -1,0 +1,11 @@
+# requirements.txt
+
+# Python version: 3.11.7 (please specify this in your README or virtual environment)
+
+torch==2.3.0
+# For CUDA 12.2 support, it's recommended to install PyTorch using the official command:
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu122
+
+numpy
+pandas
+scikit-learn
